@@ -1,6 +1,0 @@
-D:\Elham\Train\C#\Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.dll
-D:\Elham\Train\C#\Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.pdb
-D:\Elham\Train\C#\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.CoreCompileInputs.cache
-D:\Elham\Train\C#\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.dll
-D:\Elham\Train\C#\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.pdb
-D:\Elham\Train\C#\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.AssemblyReference.cache
