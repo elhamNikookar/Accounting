@@ -1,0 +1,6 @@
+D:\Elham\Train\C#\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.dll
+D:\Elham\Train\C#\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.pdb
+D:\Elham\Train\C#\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csproj.AssemblyReference.cache
+D:\Elham\Train\C#\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csproj.CoreCompileInputs.cache
+D:\Elham\Train\C#\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.dll
+D:\Elham\Train\C#\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.pdb
